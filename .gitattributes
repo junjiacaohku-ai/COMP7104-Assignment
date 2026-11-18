@@ -1,0 +1,3 @@
+*.duckdb filter=lfs diff=lfs merge=lfs -text
+Assignment1/pa1-data/pa1data/*.csv filter=lfs diff=lfs merge=lfs -text
+Assignment1/pa1-data/pa1data/*.parquet filter=lfs diff=lfs merge=lfs -text
